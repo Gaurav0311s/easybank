@@ -1,0 +1,232 @@
+/* ---------------------------------- CSS ------------------------------------
+//Owner : GAURAV Kaushik
+//Date  : 21-3-2020
+*/
+
+
+/* ----------------------------Style for HTML Tag - START--------------------------- */
+li {
+  display: inline;
+}
+
+body {
+  font-family: 'PublicSansRegular';
+  font-size: 15px;
+  font-weight: 300, 400;
+  line-height: 1.7;
+  color: #5b5656;
+}
+
+h1, h3{
+  color: #333333;
+}
+/* ----------------------------Style for HTML Tag - END----------------------------- */
+
+
+/* ----------------------------Style for Id Tag - START----------------------------- */
+#image_header, #list_header, #button_header {
+  display: inline;
+}
+
+#text_easyBank, #second_image_easyBank, #third_image_easyBank {
+  display: inline-block;
+}
+
+#text_easyBank {
+  width: 40%;
+}
+
+#creater_one, #creater_two, #creater_three, #creater_four {
+  font-size: 12px;
+  color: #6c5b7b;
+}
+
+/* ----------------------------Style for Id Tag - START----------------------------- */
+
+
+/* ----------------------------Style for Class Tag - START-------------------------- */
+.header {
+  display: inline;
+
+}
+
+.top_list {
+  padding-top: 0.8%;
+}
+
+.list_header_class {
+  padding-left: 21%;
+}
+
+.third_list {
+  padding-left: 22%;
+}
+
+.home_list, .about_list, .contant_list, .blog_list, .careers_list {
+  padding: 2%;
+}
+
+.bank_content {
+  padding-top: 30%;
+  padding-left: 25%;
+  padding-bottom: 12%;
+}
+
+.second_image {
+  position: absolute;
+}
+
+.background_image {
+  max-height: 600px;
+}
+
+.mobile_image {
+  padding-left: 34%;
+}
+
+.third_image{
+  position: absolute;
+  padding-left: 8%;
+  width: 50%;
+  height: 50%;
+  padding-bottom: 50%;
+}
+
+.third_div {
+  background-color: hsl(0, 0%, 98%);
+}
+
+.third_div_content {
+  padding-top: 9%;
+  padding-left: 13%;
+}
+
+.detail_table {
+  padding-left: 13%;
+  padding-top: 7%;
+  padding-bottom: 6%;
+  width: 90%;
+}
+
+.heder_padding {
+
+}
+
+.currency_image {
+  width: 65%;
+  height: 65%;
+}
+
+.restaurant_image {
+  width: 65%;
+  height: 65%;
+}
+
+.plane_image {
+  width: 65%;
+  height: 65%;
+}
+
+.confetti_image {
+  width: 65%;
+  height: 65%;
+}
+
+.detail_text {
+  padding-left: 13%;
+  padding-top: 3%;
+  padding-right: 6%;
+  padding-bottom: 4%;
+}
+
+.artical_header {
+  padding-top: 3%;
+  padding-left: 13%;
+
+}
+
+.forth_div {
+  background-color: hsl(0, 0%, 98%);
+}
+
+.footer_div {
+  color: hsla(0, 0%, 100%);
+  background-color: hsla(233, 26%, 24%, 1);
+}
+
+.footer_list {
+  padding-top: 5%;
+}
+
+li.one_footer_div {
+  display: inline-block;
+  padding-top: 3%;
+  padding-left: 10%;
+  padding-bottom: 3%;
+}
+
+li.two_footer_div {
+  display: inline-block;
+  padding-top: 3%;
+  padding-left: 7%;
+  padding-bottom: 3%;
+}
+
+li.three_footer_div {
+  display: inline-block;
+  padding-top: 3%;
+  padding-left: 30%;
+  padding-bottom: 3%;
+}
+
+ul.first_list_view, .second_list_view  {
+  display: inline-block;
+  list-style-type: none;
+}
+
+
+li.list_text {
+  display: list-item;
+}
+
+.BUTTON_CQN {
+   background: #3DF697;
+   background-image: -webkit-linear-gradient(top, #3DF697, #1ED031);
+   background-image: -moz-linear-gradient(top, #3DF697, #1ED031);
+   background-image: -ms-linear-gradient(top, #3DF697, #1ED031);
+   background-image: -o-linear-gradient(top, #3DF697, #1ED031);
+   background-image: linear-gradient(to bottom, #3DF697, #1ED031);
+   -webkit-border-radius: 100px;
+   -moz-border-radius: 100px;
+   border-radius: 100px;
+   color: #FFFFFF;
+   font-family: Open Sans;
+   font-size: 16px;
+   font-weight: 400;
+   padding: 15px;
+   /*box-shadow: 0px 0px 20px 0px #000000;
+   -webkit-box-shadow: 0px 0px 20px 0px #000000;
+   -moz-box-shadow: 0px 0px 20px 0px #000000;
+   text-shadow: 1px 0px 20px #0059A0;
+   border: inset #337FED 0px;*/
+   text-decoration: none;
+   display: inline-block;
+   cursor: pointer;
+   text-align: center;
+   align-items: flex-end;
+}
+
+.BUTTON_CQN:hover {
+   border: solid #3DF6A4 1px;
+   background: #31D356;
+   background-image: -webkit-linear-gradient(top, #31D356, #3DF6A4);
+   background-image: -moz-linear-gradient(top, #31D356, #3DF6A4);
+   background-image: -ms-linear-gradient(top, #31D356, #3DF6A4);
+   background-image: -o-linear-gradient(top, #31D356, #3DF6A4);
+   background-image: linear-gradient(to bottom, #31D356, #3DF6A4);
+   -webkit-border-radius: 100px;
+   -moz-border-radius: 100px;
+   border-radius: 100px;
+   text-decoration: none;
+}
+/* ----------------------------Style for Class Tag - END---------------------------- */
